@@ -1,2 +1,4 @@
 # New_learning_Front-End
-Learning new skills HTML CSS Javascript Python SQL
+I will learn how not to do things to get things right!
+
+Starters: HTML CSS JavaScript Python SQL
