@@ -1,0 +1,19 @@
+Structure
+
+sitelinks
+
+Robots.txt -> Sitemap: http://www.example.com/sitemap.xml
+Terms of Service and Privacy Pages
+Breadcrumb Navigation
+Nofollow Links
+“Sponsored” or “UGC” Tags: Links tagged as “rel=sponsored” or “rel=UGC” are treated differently than normal “followed” or rel=nofollow links.
+
+
+
+Home -> Contact
+    -> About
+    -> Site Map XML
+    -> Services
+    -> Volunteer
+    -> Partner
+    -> Colaborate/Support
